@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content:space-around;
+    
+}
+.container .box{
+    width: 200px;
+}
+.container2 .box{
+    width: 30px;
+    margin: 40px 0;
+}
+.box{  
+    padding: 30px;
+}
+.box1{
+background-color: lightseagreen;
+
+}
+.box2{
+background-color: limegreen;
+
+}
+.box3{
+background-color: royalblue;
+}
+.box4{
+background-color: blueviolet;
+
+}
+.box5{
+background-color: darkslategrey;
+
+}
+.box6{
+background-color:goldenrod;
+
+}
+.box7{
+background-color: darkorange;
+
+}
+.box8{
+background-color: orangered;
+
+}
+.box9{
+background-color: lightgrey;
+}
+.box10{
+background-color: gray;
+}

@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-flow: row wrap-reverse;
+    justify-content: space-around;
+}
+.box{
+    width: 200px;
+    padding: 30px;
+}
+.box1{
+background-color: lightseagreen;
+order: 10;
+}
+.box2{
+background-color: limegreen;
+
+}
+.box3{
+background-color: royalblue;
+}
+.box4{
+background-color: blueviolet;
+
+}
+.box5{
+background-color: darkslategrey;
+
+}
+.box6{
+background-color:goldenrod;
+
+}
+.box7{
+background-color: darkorange;
+order: -1;
+}
+.box8{
+background-color: orangered;
+
+}
+.box9{
+background-color: lightgrey;
+}
+.box10{
+background-color: gray;
+}

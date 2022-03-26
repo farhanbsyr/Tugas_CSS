@@ -1,0 +1,17 @@
+.layar-penuh{
+    width: 99%;
+    margin: 0 auto;
+}
+.paragrap{
+    background-color:rgb(53, 97, 99);
+    color: white;
+    margin-top: 10px;
+}
+.layar-paragrap{
+    text-align: justify;
+    padding: 20px 20px 15px 20px;
+}
+.paragrap .layar-paragrap .p-judul p{
+    font-size: 20px;
+    margin: 0;
+}

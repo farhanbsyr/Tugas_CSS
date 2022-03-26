@@ -1,0 +1,20 @@
+.layar-form{
+    width: 500px;
+    margin: auto;
+}
+
+.layar-penuh{
+    width: 100%;
+}
+
+*{
+    background-color: #333;
+    color: white;
+}
+
+label{
+    padding: 10px 0;
+}
+.oke{
+    margin: 15px 0;
+}

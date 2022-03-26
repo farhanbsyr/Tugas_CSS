@@ -1,0 +1,30 @@
+html{
+    width: 100%;
+}
+header{
+    background-color: black;
+    text-transform: capitalize;
+    color: white; 
+}
+header a{
+    color: white;
+   
+}
+.slider-div{
+    margin: 10px 30px 10px 30px;
+    width: 100%;
+}
+.slider-div img{
+    
+    width: 48%;
+}
+p{
+    text-align: justify;
+    text-shadow: 1px 3px;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}

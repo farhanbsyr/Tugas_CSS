@@ -1,0 +1,32 @@
+.layar-card{
+    margin: 0 auto;
+    width: 800px;
+}
+
+.card-title{
+    text-align: center;
+    font-weight:600;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.layar-slider a{
+    color: white;
+    text-decoration: none;
+}
+
+.container .judul-project .judul-h2-project{
+    text-align: center;
+    font-weight: 600;
+}
+
+.container a {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+

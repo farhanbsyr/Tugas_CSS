@@ -1,0 +1,29 @@
+.layar-slider a {
+    color: white;
+    text-decoration: none;
+}
+.container .kata-contact h3{
+    font-weight: 300;
+    text-align: center;
+}
+
+.container .layar-form .judul-form{
+    background-color: rgb(73, 167, 167);
+    color: white;
+    height: 75px;
+    border-radius: 5px ;
+}
+
+.container .layar-form form .form-group .kata{
+    margin-bottom: 8px;
+}
+
+.container .layar-form form .form-group{
+    margin-bottom: 30px;
+}
+
+.container .layar-form .judul-form h5{ 
+    text-align: center;
+    justify-content: center;
+
+}
